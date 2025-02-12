@@ -39,7 +39,7 @@ This project provides a series of Python scripts and exercises designed to teach
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/tor-network-analysis-toolkit.git
+git clone https://github.com/heinrihs-s/tor-network-analysis-toolkit.git
 cd tor-network-analysis-toolkit
 ```
 
